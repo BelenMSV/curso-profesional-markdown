@@ -21,6 +21,9 @@ Haz clic en el título de cada módulo para acceder a sus lecciones:
 ### [🚀 Módulo 3: Sintaxis Extendida](./03-sintaxis-extendida/)
 * Ve un paso más allá con características avanzadas (GFM): organiza datos en tablas, crea listas de tareas interactivas, añade notas al pie, resalta texto clave y utiliza vistosas alertas o paneles de colores.
 
+### [💻 Módulo 4: Ecosistema GitHub y Proyectos](./04-ecosistema-github-y-proyectos/)
+* Descubre cómo aplicar Markdown en el mundo real: diseña un `README.md` perfecto, estandariza contribuciones con plantillas, domina los metadatos (Frontmatter) y dibuja diagramas avanzados con Mermaid.js.
+
 *(Más módulos en desarrollo...)*
 
 ---
