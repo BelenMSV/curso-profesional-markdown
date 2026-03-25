@@ -24,6 +24,9 @@ Haz clic en el título de cada módulo para acceder a sus lecciones:
 ### [💻 Módulo 4: Ecosistema GitHub y Proyectos](./04-ecosistema-github-y-proyectos/)
 * Descubre cómo aplicar Markdown en el mundo real: diseña un `README.md` perfecto, estandariza contribuciones con plantillas, domina los metadatos (Frontmatter) y dibuja diagramas avanzados con Mermaid.js.
 
+### [🌐 Módulo 5: Publicación y Sitios Web](./05-publicacion-y-sitios-web/)
+* Transforma tus textos en páginas web con Generadores de Sitios Estáticos (SSG), añade componentes interactivos con MDX, exporta a PDF o Word profesionalmente usando Pandoc y aloja tus proyectos gratis en internet.
+
 *(Más módulos en desarrollo...)*
 
 ---
