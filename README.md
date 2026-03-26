@@ -27,7 +27,8 @@ Haz clic en el título de cada módulo para acceder a sus lecciones:
 ### [🌐 Módulo 5: Publicación y Sitios Web](./05-publicacion-y-sitios-web/)
 * Transforma tus textos en páginas web con Generadores de Sitios Estáticos (SSG), añade componentes interactivos con MDX, exporta a PDF o Word profesionalmente usando Pandoc y aloja tus proyectos gratis en internet.
 
-*(Más módulos en desarrollo...)*
+### [🧠 Módulo 6: Productividad y Gestión del Conocimiento](./06-productividad-y-gestion/)
+* Descubre cómo usar Markdown para organizar tu vida creando un "Segundo Cerebro" con herramientas PKM (Obsidian, Logseq, Notion). Aprende sobre enlaces bidireccionales, etiquetas y gestión de tareas descentralizada.
 
 ---
 
